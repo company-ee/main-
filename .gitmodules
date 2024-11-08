@@ -10,3 +10,6 @@
 [submodule "release-4"]
 	path = release-4
 	url = https://github.com/company-ee/release-4.git
+[submodule "main-"]
+	path = main-
+	url = https://github.com/company-ee/release-1.git
