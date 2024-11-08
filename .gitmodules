@@ -1,0 +1,12 @@
+[submodule "release-1"]
+	path = release-1
+	url = https://github.com/company-ee/release-1.git
+[submodule "release-2"]
+	path = release-2
+	url = https://github.com/company-ee/release-2.git
+[submodule "release-3"]
+	path = release-3
+	url = https://github.com/company-ee/release-3.git
+[submodule "release-4"]
+	path = release-4
+	url = https://github.com/company-ee/release-4.git
